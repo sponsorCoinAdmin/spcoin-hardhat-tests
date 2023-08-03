@@ -52,7 +52,7 @@ Add a Recipient Transaction
 Create AddRecipientTransaction(Account, Recipient, RecipientRate, amount);
 Example: AddRecipientTransaction(1, 2, 10, 123.1230);
 
-Add aa Agent Transaction
+Add an Agent Transaction
 ================================================
 Create addSponsorship(Recipient, RecipientRate, Agent, AgentRate, Amount)
 Example: AddAgentRate(1, 2, 6, 10, 10, 123.1230);
