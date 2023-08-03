@@ -1,4 +1,4 @@
-# dev-contracts-spCoin
+# sponsorCoinHHTests
 
 // TESTING
 
