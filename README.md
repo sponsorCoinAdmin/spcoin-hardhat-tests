@@ -1,4 +1,4 @@
-# <p style="text-align: center;"> spCoinHardHatTests </p>
+<p style="text-align: center;"> spCoinHardHatTests </p>
 # (Sponsor Coin HardHat Testing Methods)
 
 // VISUAL STUDIO CODE INSTALL PLUGIN
