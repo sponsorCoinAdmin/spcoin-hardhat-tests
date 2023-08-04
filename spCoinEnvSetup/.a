@@ -1,7 +1,10 @@
-# ALIAs MENU SETTINGS
+# ALIAS MENU SETTINGS
+alias a=". $SPONSOR_COIN_ENV/.a;a"
 alias am=". $SPONSOR_COIN_ENV/.am"
 alias va="vi $SPONSOR_COIN_ENV/.a;a"
 alias vam="vi $SPONSOR_COIN_ENV/.am;am"
+alias ve="vi $SPONSOR_COIN_ENV/.e;e"
+alias vem="vi $SPONSOR_COIN_ENV/.em;em"
 
 # DIRECTORY EDITING SETTINGS
 alias cdenv="cd $SPONSOR_COIN_ENV"
