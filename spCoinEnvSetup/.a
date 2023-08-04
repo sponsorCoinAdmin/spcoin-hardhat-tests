@@ -1,14 +1,16 @@
-# ALIAS MENU SETTINGS
+# STANDAARD ALIAS MENU SETTINGS
 alias a=". $SPONSOR_COIN_ENV/.a; a"
 alias am=". $SPONSOR_COIN_ENV/.am"
 alias va="vi $SPONSOR_COIN_ENV/.a; a"
 alias vam="vi $SPONSOR_COIN_ENV/.am; am"
 
+# ENVIRONMENT ALIAS MENU SETTINGS
 alias e=". $SPONSOR_COIN_ENV/.e; e"
 alias em=". $SPONSOR_COIN_ENV/.em"
 alias ve="vi $SPONSOR_COIN_ENV/.e; e"
 alias vem="vi $SPONSOR_COIN_ENV/.em; em"
 
+# TESTING ALIAS MENU SETTINGS
 alias t=". $SPONSOR_COIN_ENV/.t; t"
 alias tm=". $SPONSOR_COIN_ENV/.tm"
 alias vt="vi $SPONSOR_COIN_ENV/.t; t"
@@ -19,6 +21,3 @@ alias cdenv="cd $SPONSOR_COIN_ENV"
 alias cdsc=cdspc="cd $SPONSOR_COIN_HOME"
 alias vbrc="vi ~/.bashrc"
 alias vs="code"
-
-# GITHUB TEST CLONING
-alias sctestclone="git clone --recurse-submodules git@github.com:sponsorCoinAdmin/spCoinHardHatTests.git"
