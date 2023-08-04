@@ -10,4 +10,4 @@ alias vbrc="vi ~/.bashrc"
 alias vs="code"
 
 # GITHUB TEST CLONING
-alias sctestclone="git clone --recurse-submodules git@github.com:sponsorCoinAdmin/sponsorCoinHHTests.git"
+alias sctestclone="git clone --recurse-submodules git@github.com:sponsorCoinAdmin/spCoinHardHatTests.git"
