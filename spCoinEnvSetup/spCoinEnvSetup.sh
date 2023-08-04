@@ -1,10 +1,10 @@
 export SPONSOR_COIN_ENV=$PWD;
-export SPONSOR_COIN_DIR=${SPONSOR_COIN_ENV%/*};
-export SPONSOR_COIN_ROOT=${SPONSOR_COIN_DIR%/*};
+export SPONSOR_COIN_HOME=${SPONSOR_COIN_ENV%/*};
+export SPONSOR_COIN_ROOT=${SPONSOR_COIN_HOME%/*};
 export SPONSOR_COIN_LOGS=$SPONSOR_COIN_ENV/logs
 
 echo "Installing the Node Libraries"
-cd $SPONSOR_COIN_DIR
+cd $SPONSOR_COIN_HOME
 npm i
 
 echo "Adding startup environment configuration Files For Sponsor Coin $SPONSOR_COIN_ENV/.e"
