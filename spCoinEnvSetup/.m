@@ -1,8 +1,8 @@
 clear
 echo "=========================================================================="
-echo "                       SPONSOR COIN SETTINGS"
+echo "                       ALIAS MENU SETTINGS"
 echo "=========================================================================="
-cat $SPONSOR_COIN_ENV/.e
-cat $SPONSOR_COIN_ENV/.a
-cat $SPONSOR_COIN_ENV/.t
+echo "em = Environment Menu Alias Settings"
+echo "am = Alias Menu Setup's"
+echo "tm = Testing Menu Alias"
 echo "=========================================================================="
