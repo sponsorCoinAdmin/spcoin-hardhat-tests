@@ -1,4 +1,4 @@
-# sponsorCoinHHTests (Sponsor Coin HardHat Testing Methods)
+# spCoinHardHatTests (Sponsor Coin HardHat Testing Methods)
 
 // VISUAL STUDIO CODE INSTALL PLUGIN
 Nomic Foundation
