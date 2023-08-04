@@ -1,7 +1,5 @@
 # spCoinHardHatTests
-# Sponsor Coin HardHat Testing Methods
-// VISUAL STUDIO CODE INSTALL PLUGIN
-Nomic Foundation
+Sponsor Coin HardHat Testing Methods
 
 // INSTALLING HARDHAT
 npm install --save-dev hardhat
