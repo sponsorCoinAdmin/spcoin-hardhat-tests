@@ -1,4 +1,7 @@
 <p style="text-align: center;">Text_content</p>
+<div style='text-align: right;'>
+  bobbyhadz.com
+</div>
 
 
 <p style="text-align: center;"> spCoinHardHatTests </p>
