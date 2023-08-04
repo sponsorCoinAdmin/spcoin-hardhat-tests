@@ -1,0 +1,14 @@
+set -o vi
+
+# ALIAS ENVIRONMENT MENU SETTINGS
+alias e=". $SPONSOR_COIN_ENV/.e"
+alias me=". $SPONSOR_COIN_ENV/.me"
+alias ve="vi $SPONSOR_COIN_ENV/.e;e"
+alias vme="vi $SPONSOR_COIN_ENV/.me;me"
+
+#SET UP ALIASES
+. $SPONSOR_COIN_ENV"/.a"
+. $SPONSOR_COIN_ENV"/.t"
+alias  cdspc="cd $SPONSOR_COIN_HOME"
+cdspc
+tm
