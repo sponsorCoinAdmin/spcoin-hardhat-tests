@@ -1,11 +1,5 @@
-<p style="text-align: center;">Text_content</p>
-<div style='text-align: right;'>
-  bobbyhadz.com
-</div>
-
-
-<p style="text-align: center;"> spCoinHardHatTests </p>
-# (Sponsor Coin HardHat Testing Methods)
+# spCoinHardHatTests
+# Sponsor Coin HardHat Testing Methods
 // VISUAL STUDIO CODE INSTALL PLUGIN
 Nomic Foundation
 
