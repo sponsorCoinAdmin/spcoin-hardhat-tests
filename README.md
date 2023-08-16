@@ -89,7 +89,7 @@ The above menu is simply a menu of many submenus. Each entry is an alias to an a
 It is recommended to read the contents of the scripts to be assured of the installation process and what will be installed. There may not be an associated uninstalling script, so uninstalling is the owner’s responsibility.
 - Validate the .env file was added to the package directory [<b>/spCoinHardHatTests</b>](https://github.com/sponsorCoinAdmin/spCoinHardHatTests/tree/main).<BR>This adds the required network access keys.
 After a new Linux/gitBash successful installation you can start the program directly in two ways as follows:
-1. cd into the Package [<b>'spCoinHardHatTests'</b>](https://github.com/sponsorCoinAdmin/spCoinHardHatTests/tree/main) and execute the command <b>'npm start'</b>.
+1. cd into the Package [<b>/spCoinHardHatTests</b>](https://github.com/sponsorCoinAdmin/spCoinHardHatTests/tree/main) and execute the command <b>'npm start'</b>.
 2. Running the test menu display, <b>'tm'</b>, command will list the testing options.
    Running the alias menu command <b>'runtest'</b> will start the spCoinEnvSetup.sh</b> application.
  - - - -
