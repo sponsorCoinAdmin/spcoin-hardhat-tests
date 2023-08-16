@@ -85,12 +85,13 @@ The <b>All Command Menus</b> are a list of shortcut alias commands for administe
 The above menu is simply a menu of many submenus. Each entry is an alias to an alternate command menu short cut. Each submenu exists under the repositories’ spCoinHardHatTests/env directory. These menus cane be more completely described in the file [<b>./setupEnv/ReadMe.md</b>](https://github.com/sponsorCoinAdmin/spCoinSetupEnv/blob/main/README.md).
  - - - -
 ### Running the Package<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/running2.png" width="6%" align= "right">
-It is recommended to read the contents of the scripts to be assured of the installation process and what will be installed.  There may not be an associated uninstalling script, so uninstalling is the owner’s responsibility.
+
+It is recommended to read the contents of the scripts to be assured of the installation process and what will be installed. There may not be an associated uninstalling script, so uninstalling is the owner’s responsibility.
+- Validate the .env file was added to the package directory [<b>/spCoinHardHatTests</b>](https://github.com/sponsorCoinAdmin/spCoinHardHatTests/tree/main).<BR>This adds the required network access keys.
 After a new Linux/gitBash successful installation you can start the program directly in two ways as follows:
-- Validate the .env file was added to the package directory <b>[<b>spCoinHardHatTests</b>](https://github.com/sponsorCoinAdmin/spCoinHardHatTests/tree/main)'</b>. This adds the required network access keys.
-- cd into the Package <b>[<b>'spCoinHardHatTests'</b>](https://github.com/sponsorCoinAdmin/spCoinHardHatTests/tree/main)'</b> and execute the command <b>'npm support'</b>.
-- Running the menu test display, <b>'tm'</b>, command will list the testing options.
-  running the alias menu command runserver will start the spCoinEnvSetup.sh</b> application.
+1. cd into the Package [<b>'spCoinHardHatTests'</b>](https://github.com/sponsorCoinAdmin/spCoinHardHatTests/tree/main) and execute the command <b>'npm start'</b>.
+2. Running the test menu display, <b>'tm'</b>, command will list the testing options.
+  running the alias menu command <b>runtest</b> will start the spCoinEnvSetup.sh</b> application.
  - - - -
 ### Video Tutorial<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/video.png" width="5%" align= "right">
 - Comprehensive Video Tutorial Currently Under Construction. Resource will be posted as soon as it is ready for publication.
