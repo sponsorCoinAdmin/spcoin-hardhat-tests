@@ -91,8 +91,7 @@ It is recommended to read the contents of the scripts to be assured of the insta
 After a new Linux/gitBash successful installation you can start the program directly in two ways as follows:
 1. cd into the Package [<b>/spCoinHardHatTests</b>](https://github.com/sponsorCoinAdmin/spCoinHardHatTests/tree/main) and execute the command <b>'npm start'</b>.
 2. Running the test menu display, <b>'tm'</b>, command will list the testing options.
-   Running the alias menu command <b>'runtest'</b> will start the spCoinEnvSetup.sh</b> application.
-   Running the alias menu command <b>'runtest'</b> will start the [<b>spCoinHardHatTests</b>](https://github.com/sponsorCoinAdmin/spCoinHatdHatTests/tree/main) application.
+   Running the alias menu command <b>'hhtest'</b> will start the [<b>spCoinHardHatTests</b>](https://github.com/sponsorCoinAdmin/spCoinHatdHatTests/tree/main) application.
  - - - -
 ### Video Tutorial<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/video.png" width="5%" align= "right">
 - Comprehensive Video Tutorial Currently Under Construction. Resource will be posted as soon as it is ready for publication.
