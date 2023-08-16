@@ -1,4 +1,4 @@
-# spCoinHardHatTests Tests ©<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/boot1.png" width="6%" align= "right">
+# spCoinHardHatTests ©<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/boot1.png" width="6%" align= "right">
 ---
 ### Directory of Information
 Find your way using the directory below:
