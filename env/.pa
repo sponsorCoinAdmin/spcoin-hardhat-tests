@@ -5,6 +5,6 @@ alias vpa="vi $SPONSOR_COIN_ENV/.pa;pa"
 
 alias gitadd="git commit -a -m"
 alias ga="gitadd"
-alias gap="gitadd "WIP"; git push"
+alias gap="gitadd "WIP"; git push; git status"
 
 # PROJECT ALIAS COMMAND'S
