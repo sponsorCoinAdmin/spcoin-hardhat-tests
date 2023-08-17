@@ -7,4 +7,4 @@ repo=spCoinHardHatTests
 git clone --recurse-submodules git@github.com:sponsorCoinAdmin/$repo.git
 cd ./$repo/setupEnv
 . ./spCoinEnvSetup.sh | tee -a ../logs/spCoinEnvSetup.log
-cd $currDir
+cd $repo
