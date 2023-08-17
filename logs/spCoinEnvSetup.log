@@ -195,3 +195,52 @@ EXECUTING cp /c/Users/robin/OneDrive/Dev/gitRepo/sponsorcoin/WIP/spCoinHardHatTe
 Please ensure the '.env' file is configured for proper operations
     EXAMPLE .env file is located at:
     /c/Users/robin/OneDrive/Dev/gitRepo/sponsorcoin/WIP/spCoinHardHatTests/setupEnv/SAMPLE.env
+Your branch is up-to-date with 'origin/main'.
+SPONSOR_COIN_SETUP=/c/Users/robin/OneDrive/Dev/gitRepo/sponsorcoin/WIP/spCoinHardHatTests/setupEnv
+SPONSOR_COIN_HOME=/c/Users/robin/OneDrive/Dev/gitRepo/sponsorcoin/WIP/spCoinHardHatTests
+SPONSOR_COIN_ROOT=/c/Users/robin/OneDrive/Dev/gitRepo/sponsorcoin/WIP
+SPONSOR_COIN_ENV=/c/Users/robin/OneDrive/Dev/gitRepo/sponsorcoin/WIP/spCoinHardHatTests/env
+SPONSOR_COIN_LOGS=/c/Users/robin/OneDrive/Dev/gitRepo/sponsorcoin/WIP/spCoinHardHatTests/logs
+
+Adding startup environment configuration Files For Sponsor Coin /c/Users/robin/OneDrive/Dev/gitRepo/sponsorcoin/WIP/spCoinHardHatTests/env/.e
+export SPONSOR_COIN_ENV=/c/Users/robin/OneDrive/Dev/gitRepo/sponsorcoin/WIP/spCoinHardHatTests/env    
+export SPONSOR_COIN_SETUP=/c/Users/robin/OneDrive/Dev/gitRepo/sponsorcoin/WIP/spCoinHardHatTests/setupEnv
+export SPONSOR_COIN_HOME=/c/Users/robin/OneDrive/Dev/gitRepo/sponsorcoin/WIP/spCoinHardHatTests  
+export SPONSOR_COIN_LOG=/c/Users/robin/OneDrive/Dev/gitRepo/sponsorcoin/WIP/spCoinHardHatTests/logs   
+export SPONSOR_COIN_ROOT=/c/Users/robin/OneDrive/Dev/gitRepo/sponsorcoin/WIP  
+
+Adding sponsor coin startup configuration Files to bootstrap file ~/.baschrc
+. /c/Users/robin/OneDrive/Dev/gitRepo/sponsorcoin/WIP/spCoinHardHatTests/env/.e
+Installing the Node Libraries
+CHANGING TO DIRECTORY /c/Users/robin/OneDrive/Dev/gitRepo/sponsorcoin/WIP/spCoinHardHatTests
+EXECUTING COMMAND npm i
+
+added 1161 packages, and audited 1162 packages in 14s
+
+145 packages are looking for funding
+  run `npm fund` for details
+
+25 vulnerabilities (17 moderate, 5 high, 3 critical)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+Some issues need review, and may require choosing
+a different dependency.
+
+Run `npm audit` for details.
+Starting menu with 'm' alias
+[3J[H[2J==========================================================================
+         { spCoinHardHatTests } USER ALIAS MAIN MENU SETTINGS
+==========================================================================
+m = The main menu, it is a Menu of Menu's, It displays 'THIS' menu.
+pm = Project menu, stores project testing shourcut commands
+em = Environment Menu, stores environment shortcut commands
+tm = Testing Menu Alias, stores testing shortcut commands
+um = User Menu Alias, used locally and not saved to remote git repository
+==========================================================================
+EXECUTING cp /c/Users/robin/OneDrive/Dev/gitRepo/sponsorcoin/WIP/spCoinHardHatTests/env/.SAMPLE.env /c/Users/robin/OneDrive/Dev/gitRepo/sponsorcoin/WIP/spCoinHardHatTests/.env
+
+*** IMPORTANT SETUP NOTE ***
+Please ensure the '.env' file is configured for proper operations
+    THIS .env file is located at at the project level /.env
