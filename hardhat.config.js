@@ -18,7 +18,7 @@ module.exports = {
       accounts: [process.env.GOERLI_ACCOUNT_1_PRIVATE_KEY]
   },
     sepolia: {
-      url: process.env.SEPOLIA_ALCHEMY_RPC_TESTNET,
+      url: process.env.ALCHEMY_SEPOLIA_TEST_URL,
       accounts: [process.env.SEPOLIA_ACCOUNT_3_PRIVATE_KEY]
   }
 },
