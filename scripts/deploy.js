@@ -1,5 +1,3 @@
-require("dotenv").config();
-
 async function main() {
   const networkName = hre.network.name;
   const [deployer] = await ethers.getSigners();
@@ -10,7 +8,6 @@ async function main() {
 
   const SPCoin = await ethers.getContractFactory("SPCoin");
   const spCoin = await SPCoin.deploy();
-  await spCoin.init();
 
   console.log("SPCoin address:", spCoin.address);
   console.log("SPCoin name:", await spCoin.name());
