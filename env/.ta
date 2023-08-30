@@ -4,10 +4,13 @@ alias tm=". $SPONSOR_COIN_ENV/.tm"
 alias vta="vi $SPONSOR_COIN_ENV/.ta;ta"
 alias vtm="vi $SPONSOR_COIN_ENV/.tm;tm"
 
+# NETWORK DEPLOYMENTS
+alias hhdeploymainnet="npx hardhat run scripts/deploy.js --network mainnet"
+alias hhdeploygoerli="npx hardhat run scripts/deploy.js --network goerli"
+alias hhdeploysepolia="npx hardhat run scripts/deploy.js --network sepolia"
+
 # TESTING ALIAS COMMAND'S
 alias hhcompile="clear;npx hardhat compile"
-alias hhdeploy="npx hardhat run scripts/deploy.js --network sepolia"
-alias hhdeploygoerli="npx hardhat run scripts/deploy.js --network goerli"
 alias hhnode="clear; npx hardhat node  2>&1 > $SPONSOR_COIN_LOGS/hhnode.out &"
 alias hhsize="npx hardhat size-contracts"
 alias hhtest="reset;clear; npx hardhat test 2>&1 | tee ./test.out/hhtest.out"
