@@ -13,15 +13,19 @@ module.exports = {
     }
   },
   networks: {
+    mainnet: {
+      url: process.env.MAINNET_ALCHEMY_TEST_URL,
+      accounts: [process.env.WALLET_SECRET]
+    },
     goerli: {
       url: process.env.GOERLI_ALCHEMY_TEST_URL,
       accounts: [process.env.WALLET_SECRET]
-  },
+    },
     sepolia: {
       url: process.env.SEPOLIA_ALCHEMY_TEST_URL,
       accounts: [process.env.WALLET_SECRET]
-  }
-},
+    }
+  },
   etherscan: {
     apiKey: process.env.ETHERSCAN_API_KEY
   },
