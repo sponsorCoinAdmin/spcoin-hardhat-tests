@@ -5,9 +5,9 @@ alias vta="vi $SPONSOR_COIN_ENV/.ta;ta"
 alias vtm="vi $SPONSOR_COIN_ENV/.tm;tm"
 
 # NETWORK DEPLOYMENTS
-alias hhdeploymainnet="npx hardhat run scripts/deploy.js --network mainnet"
-alias hhdeploygoerli="npx hardhat run scripts/deploy.js --network goerli"
-alias hhdeploysepolia="npx hardhat run scripts/deploy.js --network sepolia"
+alias hhdeploymainnet="cdspc; npx hardhat run setupEnv/deploy.js --network mainnet"
+alias hhdeploygoerli="cdspc; npx hardhat run setupEnv/deploy.js --network goerli"
+alias hhdeploysepolia="cdspc; npx hardhat run setupEnv/deploy.js --network sepolia"
 
 # TESTING ALIAS COMMAND'S
 alias hhcompile="clear;npx hardhat compile"
