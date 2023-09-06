@@ -5,6 +5,7 @@ alias vta="vi $SPONSOR_COIN_ENV/.ta;ta"
 alias vtm="vi $SPONSOR_COIN_ENV/.tm;tm"
 
 # NETWORK DEPLOYMENTS
+alias hhdeploy="cdspc; npx hardhat run setupEnv/deploy.js --network hardhat"
 alias hhdeploymainnet="cdspc; npx hardhat run setupEnv/deploy.js --network mainnet"
 alias hhdeploygoerli="cdspc; npx hardhat run setupEnv/deploy.js --network goerli"
 alias hhdeploysepolia="cdspc; npx hardhat run setupEnv/deploy.js --network sepolia"

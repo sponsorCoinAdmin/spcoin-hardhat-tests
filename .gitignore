@@ -4,6 +4,7 @@
 /node_modules
 artifacts/
 hhtest.out
+nohup.out
 cache
 .env
 .e
