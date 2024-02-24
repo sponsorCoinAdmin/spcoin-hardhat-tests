@@ -13,3 +13,6 @@
 [submodule "spCoinDocs"]
 	path = spCoinDocs
 	url = git@github.com:sponsorCoinAdmin/spCoinDocs.git
+[submodule "docs"]
+	path = docs
+	url = git@github.com:sponsorCoinAdmin/spCoinDocs
