@@ -36,7 +36,7 @@ Read all copyright clauses and information before continuing to download and/or 
 <b>**INSTALL AT YOUR OWN RISK: END OF DISCLAIMER</b>
  - - - -
 ### Repository Information<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/repository.png" width="5%" align= "right">
-- <b>https://github.com/sponsorCoinAdmin</b>
+- <b>https://github.com/sponsorCoinAdmin/spCoinHHContractTests</b>
 
 - - - -
 ### About<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/aboutMickey.png" width="6%" align= "right">
