@@ -42,7 +42,7 @@ Read all copyright clauses and information before continuing to download and/or 
 ### About<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/aboutMickey.png" width="6%" align= "right">
 - Version: 1.0.0
 - Release Date: Dec 1st. 2024
-- Purpose: [<b>spCoinHHContractTests</b>](https://github.com/sponsorCoinAdmin/spCoinHHContractTests/tree/main) is a WIP GUI front end package to demonstrate blockchain connectivity and transactions.
+- Purpose: [<b>spCoinHHContractTests</b>](https://github.com/sponsorCoinAdmin/spCoinHHContractTests/tree/main) is a WIP GUI testing package to validate spCoin transactions.
 - Description: [<b>spCoinHHContractTests</b>](https://github.com/sponsorCoinAdmin/spCoinHHContractTests/tree/main) package is a front end GUI package mimicking Uniswap's appearance and utilizing Uniswap’s SDK to perform price matching and trade transactions. 
  - - - -
 ### Installation Details<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/installation.png" width="7%" align= "right">
