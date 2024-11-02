@@ -1,3 +1,12 @@
+
+/.contracts.OLD
+/.vscode/
+hhtest\.out
+/hhtest*
+/*.out
+node_modules
+# Hardhat files
+
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -6,7 +15,9 @@ artifacts/
 hhtest.out
 *.log
 nohup.out
+
 cache
 .env
+
 .e
 .ua

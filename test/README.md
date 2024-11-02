@@ -1,6 +1,5 @@
 # dev-contracts-spCoin
 
-
 NOTE: This is the leader page for sponsorCoin setup
 
 // SETTING UP THE HARDHAT TESTING ENVIRONMENT
