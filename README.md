@@ -29,7 +29,7 @@ Read all copyright clauses and information before continuing to download and/or 
 - There exists no warranty or guaranty of any kind in any way and is not assured to be as required and may not work exactly as designed for all operating systems employing various potentially conflicting software programs and entities.  
 - It is recommended to read the contents of the scripts to be assured of the installation process and what will be installed. 
 - The user is free to modify the code as required. 
-- There may not be any associated uninstal script. Uninstalling any such software or its effects on any system is the system owners responsibility.
+- There may not be any associated uninstall script. Uninstalling any such software or its effects on any system is the system owners responsibility.
 - It is recommended to be installed on a test system in a test environment before promoting to a production environment.
 - There is absolutely no guarantee of profit in any way, implying there should not be any expectation of financial gain while utilizing this application and associated development kit.</b><img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main//caution.png" width="6%" align= "right"></b>
 
@@ -48,7 +48,7 @@ Read all copyright clauses and information before continuing to download and/or 
 ### Installation Details<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/installation.png" width="7%" align= "right">
 - Please Note: For a comprehensive demonstration of the installation process, refer to the 'Video Tutorial' section below.
 - Clone the package to your local computer:
-- Change your current directory to {root installaction}/[<b>spCoinHardHatTests</b>](https://github.com/sponsorCoinAdmin/spCoinHardHatTests/tree/main)
+- Change your current directory to {root installation}/[<b>spCoinHardHatTests</b>](https://github.com/sponsorCoinAdmin/spCoinHardHatTests/tree/main)
 - Next install the text menu driven system as follows:
     - execute the following command: <b>'. ./[<b>spCoinEnvSetup.sh</b>'](https://github.com/sponsorCoinAdmin/spCoinSetupEnv/blob/main/spCoinEnvSetup.sh)</b>
 - <b>Notes:
@@ -59,7 +59,7 @@ Read all copyright clauses and information before continuing to download and/or 
 - A sample configuration file <b>.env</b> exists in  project's home directory <b>/spCoinHardHatTests</b>.
 - This file, <b>".env"</b> requires you key to be added for network access.
 - For example, an Infura key entry would look look like:
-  - <b>NFURA_API_MAIN_NET_ACCESS_KEY="<Your Infura Key Here></b>"
+  - <b>INFURA_API_MAIN_NET_ACCESS_KEY="<Your Infura Key Here></b>"
 - Further environment settings exist in the file <b>/spCoinHardHatTests/env/.e</b>.
  - - - - 
 ### Command Menu Shortcuts<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/menu 4.jpg" width="7%" align= "right">
