@@ -41,7 +41,7 @@ Read all copyright clauses and information before continuing to download and/or 
 - - - -
 ### About<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/aboutMickey.png" width="6%" align= "right">
 - Version: 1.0.0
-- Release Date: Sept 1st 2023
+- Release Date: Dec 1st. 2024
 - Purpose: [<b>spCoinHardHatTests</b>](https://github.com/sponsorCoinAdmin/spCoinHardHatTests/tree/main) is a WIP GUI front end package to demonstrate blockchain connectivity and transactions.
 - Description: [<b>spCoinHardHatTests</b>](https://github.com/sponsorCoinAdmin/spCoinHardHatTests/tree/main) package is a front end GUI package mimicking Uniswap's appearance and utilizing Uniswap’s SDK to perform price matching and trade transactions. 
  - - - -
