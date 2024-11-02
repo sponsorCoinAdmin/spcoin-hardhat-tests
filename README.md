@@ -42,12 +42,12 @@ Read all copyright clauses and information before continuing to download and/or 
 ### About<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/aboutMickey.png" width="6%" align= "right">
 - Version: 1.0.0
 - Release Date: Dec 1st. 2024
-- Purpose: [<b>spCoinHHContractTests</b>](https://github.com/sponsorCoinAdmin/spCoinHHContractTests/tree/main) package is a front end GUI package mimicking Uniswap's appearance and utilizing Uniswap’s SDK to perform price matching and trade transactions.
-- Description: [<b>spCoinHHContractTests</b>](https://github.com/sponsorCoinAdmin/spCoinHHContractTests/tree/main) is a WIP GUI testing package to validate spCoin transactions utilizing the Hard HAt Network. 
+- Purpose: [<b>spCoinHHContractTests</b>](https://github.com/sponsorCoinAdmin/spCoinHHContractTests/tree/main) is a front end GUI package to test and trade Sponsor Coin utilities such as trading with the option to share staking rewards.
+- Description: [<b>spCoinHHContractTests</b>](https://github.com/sponsorCoinAdmin/spCoinHHContractTests/tree/main) is a WIP GUI testing package to validate spCoin transactions utilizing the Hard Hat Network through javascript ons solidity code. 
  - - - -
 ### Installation Details<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/installation.png" width="7%" align= "right">
 - Please Note: For a comprehensive demonstration of the installation process, refer to the 'Video Tutorial' section below.
-- Clone the package to your local computer:
+- Clone the package to your local computer:  SSH cloning Example <b>git clone git@github.com:sponsorCoinAdmin/spCoinHHContractTests.git</b>
 - Change your current directory to {root installaction}/[<b>spCoinHHContractTests</b>](https://github.com/sponsorCoinAdmin/spCoinHHContractTests/tree/main)
 - Next install the text menu driven system as follows:
     - execute the following command: <b>'. ./[<b>spCoinEnvSetup.sh</b>'](https://github.com/sponsorCoinAdmin/spCoinSetupEnv/blob/main/spCoinEnvSetup.sh)</b>
