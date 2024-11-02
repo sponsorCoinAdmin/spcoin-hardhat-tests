@@ -1,8 +1,6 @@
 clear
 echo "=========================================================================="
-echo "                       SPONSOR COIN SETTINGS"
+echo "          { spCoinHardHatTests } PROJECT ALIAS MENU SETTINGS"
 echo "=========================================================================="
-cat $SPONSOR_COIN_ENV/.e
-cat $SPONSOR_COIN_ENV/.a
-cat $SPONSOR_COIN_ENV/.t
+cat  $SPONSOR_COIN_ENV/.pa
 echo "=========================================================================="

@@ -19,8 +19,9 @@
   },
   "dependencies": {
     "@nomiclabs/hardhat-etherscan": "^3.1.7",
-    "@remix-project/remixd": "^0.6.16",
+    "@remix-project/remixd": "^0.6.17",
     "@sponsorcoin/spcoin-prod": "^1.0.0",
-    "@sponsorcoin/spcoin-test": "^1.0.1"
+    "@sponsorcoin/spcoin-test": "^1.0.1",
+    "npm-check-updates": "^16.13.2"
   }
 }

@@ -14,12 +14,12 @@ describe("spCoinContract", function () {
   // Recipient Account to the Blockchain Network.
   // Account, Recipient and/or Agent are Successfully mutually exclusive.
 
-  // await spCoinAddMethods.addSponsorship(
-  //   SPONSOR_ACCOUNT_SIGNERS[0],
-  //   RECIPIENT_ACCOUNT_KEYS[1],
-  //   RECIPIENT_RATES[9],
-  //   "1.000000000000000008"
-  // );
+  await spCoinAddMethods.addSponsorship(
+    SPONSOR_ACCOUNT_SIGNERS[0],
+    RECIPIENT_ACCOUNT_KEYS[1],
+    RECIPIENT_RATES[9],
+    "1.000000000000000008"
+  );
 
   // await spCoinAddMethods.addSponsorship(
   //   SPONSOR_ACCOUNT_SIGNERS[1],

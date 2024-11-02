@@ -13,15 +13,30 @@ module.exports = {
     }
   },
   networks: {
+    hardhat: {
+      forking: {
+        enable: true,
+        // url: "https://mainnet.infura.io/v3/{YOUR INFURA KEY HERE}"
+        // or if using .env file use example similar to below
+        url: process.env.MAINNET_INFURA_TEST_URL
+        // url: process.env.GOERLI_INFURA_TEST_URL
+        // url: process.env.SEPOLIA_INFURA_TEST_URL
+      },
+      chainId: 1
+    },
+    mainnet: {
+      url: process.env.MAINNET_ALCHEMY_TEST_URL,
+      accounts: [process.env.WALLET_SECRET]
+    },
     goerli: {
-      url: process.env.GOERLI_ALCHEMY_RPC_TESTNET,
-      accounts: [process.env.GOERLI_ACCOUNT_1_PRIVATE_KEY]
-  },
+      url: process.env.GOERLI_ALCHEMY_TEST_URL,
+      accounts: [process.env.WALLET_SECRET]
+    },
     sepolia: {
-      url: process.env.SEPOLIA_ALCHEMY_RPC_TESTNET,
-      accounts: [process.env.SEPOLIA_ACCOUNT_3_PRIVATE_KEY]
-  }
-},
+      url: process.env.SEPOLIA_ALCHEMY_TEST_URL,
+      accounts: [process.env.WALLET_SECRET]
+    }
+  },
   etherscan: {
     apiKey: process.env.ETHERSCAN_API_KEY
   },
